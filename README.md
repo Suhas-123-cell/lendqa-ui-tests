@@ -44,3 +44,4 @@ pytest -v
 Tests run automatically on every push via GitHub Actions with report uploaded as artifact.
 # lendqa-ui-tests
 # lendqa-ui-tests
+# lendqa-ui-tests
